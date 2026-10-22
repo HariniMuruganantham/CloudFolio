@@ -7,14 +7,14 @@ export const About = () => {
   const timeline = [
     {
       year: 'Sep 2026 - present',
-      title: 'Junior DevOps Engineer',
+      title: 'Associate Technical Consultant - Cloud',
       company: 'Blue Yonder',
       description:
         'Working on SCM products using Azure , kubernetes , Helm and Devops tools.',
       icon: Code,},
       {
       year: 'Jan 2026 - Aug 2025',
-      title: 'DevOps Engineer',
+      title: 'Junior DevOps Engineer',
       company: 'Inthera Consulting Groups',
       description:
         'Working on cloud automation, CI/CD pipelines, Monitoring and container orchestration using AWS, Docker, Grafana and Linux/Shell scripting.',
