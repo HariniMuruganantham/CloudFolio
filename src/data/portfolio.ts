@@ -12,6 +12,12 @@ export const SKILLS = [
     category: "cloud",
     level: 85,
   },
+  {
+    name: "Azure",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
+    category: "cloud",
+    level: 60,
+  },
 
   // OS & Scripting
   {
@@ -37,6 +43,18 @@ export const SKILLS = [
   {
     name: "Docker Swarm",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+    category: "containers",
+    level: 70,
+  },
+  {
+    name: "Kubernetes",
+    icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg",
+    category: "containers",
+    level: 65,
+  },
+  {
+    name: "Lens",
+    icon: "https://img.icons8.com/ios-filled/100/dashboard-layout.png",
     category: "containers",
     level: 70,
   },
