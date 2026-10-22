@@ -54,7 +54,7 @@ export const SKILLS = [
   },
   {
     name: "Lens",
-    icon: "https://img.icons8.com/ios-filled/100/dashboard-layout.png",
+    icon: "https://cdn.simpleicons.org/lens/3D90CE",
     category: "containers",
     level: 70,
   },
@@ -94,13 +94,13 @@ export const SKILLS = [
   },
   {
     name: "LangChain",
-    icon: "https://img.icons8.com/ios-filled/100/flow-chart.png",
+    icon: "https://cdn.simpleicons.org/langchain/7FC8FF",
     category: "ai",
     level: 65,
   },
   {
     name: "n8n",
-    icon: "https://img.icons8.com/ios-filled/100/workflow.png",
+    icon: "https://cdn.simpleicons.org/n8n/EA4B71",
     category: "ai",
     level: 65,
   },
